@@ -1,0 +1,4 @@
+- ls → Lista o diretório
+- cd →Muda diretório
+- pwd → Mostra endereço do diretório
+- mkdir “  “ → cria nova pasta
